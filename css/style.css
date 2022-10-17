@@ -13,6 +13,9 @@ li {
 
 
 
+
+
+
 .pokemonButton {
     width: 500px;
     height: 100px;
@@ -26,12 +29,15 @@ li {
 
 .container-fluid{
     text-align: center;
-    padding-left: auto;
-    padding-right: auto;
 
 }
 ul {
     list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
 
